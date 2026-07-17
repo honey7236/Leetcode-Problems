@@ -35,3 +35,19 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | **Dynamic Programming** | DP problems with optimized solutions. | 5/10 |
 
 **Total Solved: 83 / 100** ✅
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/honey7236/Leetcode-Problems/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/honey7236/Leetcode-Problems/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/honey7236/Leetcode-Problems/tree/master/0231-power-of-two) |
+<!---LeetCode Topics End-->
