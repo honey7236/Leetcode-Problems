@@ -54,6 +54,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/honey7236/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honey7236/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/honey7236/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -63,4 +64,5 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/honey7236/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honey7236/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
