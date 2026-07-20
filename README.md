@@ -54,6 +54,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/honey7236/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/honey7236/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honey7236/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/honey7236/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -71,4 +72,12 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/honey7236/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/honey7236/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
