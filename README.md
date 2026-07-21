@@ -60,6 +60,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/honey7236/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/honey7236/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/honey7236/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -87,4 +88,8 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/honey7236/Leetcode-Problems/tree/master/0001-two-sum) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/honey7236/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
