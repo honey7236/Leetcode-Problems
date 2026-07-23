@@ -59,6 +59,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honey7236/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/honey7236/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/honey7236/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/honey7236/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/honey7236/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/honey7236/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
@@ -75,10 +76,12 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0151-reverse-words-in-a-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/honey7236/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/honey7236/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/honey7236/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -93,6 +96,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/honey7236/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/honey7236/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -108,4 +112,5 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/honey7236/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/honey7236/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
