@@ -81,6 +81,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/honey7236/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/honey7236/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
@@ -96,6 +97,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/honey7236/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/honey7236/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/honey7236/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
@@ -107,6 +109,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | ------- |
 | [0125-valid-palindrome](https://github.com/honey7236/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/honey7236/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/honey7236/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
