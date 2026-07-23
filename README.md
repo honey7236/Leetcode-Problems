@@ -58,6 +58,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0053-maximum-subarray](https://github.com/honey7236/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honey7236/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/honey7236/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/honey7236/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1480-running-sum-of-1d-array](https://github.com/honey7236/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/honey7236/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
@@ -72,6 +73,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honey7236/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/honey7236/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/honey7236/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -102,4 +104,8 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0151-reverse-words-in-a-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/honey7236/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/honey7236/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
