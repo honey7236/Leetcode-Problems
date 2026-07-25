@@ -41,6 +41,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/honey7236/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/honey7236/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [3536-maximum-product-of-two-digits](https://github.com/honey7236/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -57,6 +58,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0001-two-sum](https://github.com/honey7236/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/honey7236/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/honey7236/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/honey7236/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/honey7236/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/honey7236/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/honey7236/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
