@@ -42,6 +42,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/honey7236/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [3536-maximum-product-of-two-digits](https://github.com/honey7236/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0242-valid-anagram](https://github.com/honey7236/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/honey7236/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/honey7236/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
