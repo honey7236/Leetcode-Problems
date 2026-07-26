@@ -43,6 +43,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | ------- |
 | [0066-plus-one](https://github.com/honey7236/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/honey7236/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/honey7236/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/honey7236/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -65,6 +66,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0136-single-number](https://github.com/honey7236/Leetcode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/honey7236/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/honey7236/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/honey7236/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/honey7236/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/honey7236/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -90,6 +92,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | ------- |
 | [0242-valid-anagram](https://github.com/honey7236/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/honey7236/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/honey7236/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/honey7236/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/honey7236/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
