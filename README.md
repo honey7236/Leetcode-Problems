@@ -69,6 +69,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0628-maximum-product-of-three-numbers](https://github.com/honey7236/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/honey7236/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/honey7236/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/honey7236/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/honey7236/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -95,6 +96,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0628-maximum-product-of-three-numbers](https://github.com/honey7236/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/honey7236/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/honey7236/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/honey7236/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -148,4 +150,8 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/honey7236/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/honey7236/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/honey7236/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
