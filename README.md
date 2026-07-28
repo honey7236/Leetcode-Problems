@@ -97,6 +97,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/honey7236/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/honey7236/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/honey7236/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/honey7236/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -131,6 +132,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0387-first-unique-character-in-a-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/honey7236/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/honey7236/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/honey7236/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,4 +156,8 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/honey7236/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/honey7236/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
