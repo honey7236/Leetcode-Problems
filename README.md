@@ -44,6 +44,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0066-plus-one](https://github.com/honey7236/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/honey7236/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/honey7236/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/honey7236/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/honey7236/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -133,6 +134,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0387-first-unique-character-in-a-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/honey7236/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/honey7236/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/honey7236/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/honey7236/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
@@ -161,4 +163,8 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/honey7236/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/honey7236/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
