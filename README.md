@@ -99,6 +99,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0905-sort-array-by-parity](https://github.com/honey7236/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/honey7236/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/honey7236/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/honey7236/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/honey7236/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/honey7236/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
@@ -119,6 +120,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [0349-intersection-of-two-arrays](https://github.com/honey7236/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/honey7236/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/honey7236/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | [1108-defanging-an-ip-address](https://github.com/honey7236/Leetcode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/honey7236/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/honey7236/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/honey7236/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/honey7236/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
@@ -150,6 +153,7 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/honey7236/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/honey7236/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/honey7236/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -167,4 +171,5 @@ Navigate to any topic folder to find problem files. Each file contains a Python 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/honey7236/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/honey7236/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
