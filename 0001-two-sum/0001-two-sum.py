@@ -4,4 +4,4 @@ class Solution:
             for j in range(i + 1, len(nums)):
                 check = nums[i] + nums[j]
                 if check == target:
-                    return [i, j]  
+                    return [i, j]
