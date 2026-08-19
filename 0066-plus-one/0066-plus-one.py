@@ -7,5 +7,5 @@ class Solution:
         num += 1
 
         ans = [int(digit) for digit in str(num)]
-        
+
         return ans
